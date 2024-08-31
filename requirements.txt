@@ -1,0 +1,13 @@
+# local package
+-e .
+
+# external requirements
+num2words
+mlflow
+tensorflow
+keras
+nltk
+tqdm
+opencv-python
+glob
+streamlit

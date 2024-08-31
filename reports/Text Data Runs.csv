@@ -1,0 +1,3 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,Batch_size,Epochs,Loss,Optimizer,train_accuracy,train_loss,val_accuracy,val_loss
+2024-08-24 14:09:10,1.3min,242aea257e064b72a449092a199be9a4,CNN1D,LOCAL,c:\Users\KARIMI\anaconda3\envs\tf-gpu\lib\site-packages\ipykernel_launcher.py,KARIMI,FINISHED,32,50,Categorical_Crossentropy,Adam,1,2.1050199361383193e-9,1,2.3794262116183518e-9
+2024-08-24 12:06:24,2.0h,bab7a6ee7c324feda0bef818010647e5,LSTM,LOCAL,c:\Users\KARIMI\anaconda3\envs\tf-gpu\lib\site-packages\ipykernel_launcher.py,KARIMI,FINISHED,32,50,Categorical_Crossentropy,Adam,1,1.773854876319092e-7,1,1.4752440335996653e-7
